@@ -16,7 +16,7 @@ namespace TrevelTricProject.Controllers
         {
             //var blogs = c.Blogs.ToList();
             by.Value1 = c.Blogs.ToList();
-            by.Value3 = c.Blogs.Take(3).ToList();
+            by.Value3 = c.Blogs.Take(8).ToList();
             return View(by);
         }
         public ActionResult BlogDetail(int id=1)
