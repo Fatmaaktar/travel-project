@@ -1,13 +1,18 @@
-# TravelTricProject
-Bu proje Asp .NET Core MVC ile yapıldı.  
-Seyahat edilen,gezip görülen yerleri paylaşmak için yapıldı.Bu yerlere ait yorumlar ve fotoğraflar ilgili başlıklar altına yazıldı.  
-Kullanışlı ve karmaşık olamayan bir yapıya sahip.  
-Projede değişiklik yapmak istiyorsanız kendi localinize yükledikten sonra Admin girişinden Kullanıcı adını:"Fatma" şifre:"214" olarak giriş yapıp dilediğiniz değişikliği yapabilirsiniz.  
+# 📌 Travel Tric Project
+This project was built using Asp.Net MVC5. I used MSSQL database.
 
-![LOGİN](https://github.com/Fatmaaktar/TravelTricProject/assets/106100226/5bfc73d9-533e-4f0d-b361-7a8619709138)  
-Giriş yaptıktan sonra Admin panelde ilgili başlıklar görünmektedir. Sizde gezip gördüğünüz yerleri Blog sayfasına ekleyebilirsiniz veya var olan yerler hakkında kendi görüşlerinizi bloğun altındaki yorum yapma butonu ile ekleyebilirsiniz  
+## ✨ The Project Objective
+Adding the places you have visited, expressing your opinions about these areas, and guiding future travelers were the main goals of the project. By personalizing the project, you can define your route, share the places you have visited along this route, and convey your own perspectives by commenting on areas in that region.
 
+## 👀 Overview  
 
-![LOGİN2](https://github.com/Fatmaaktar/TravelTricProject/assets/106100226/8879ebd6-e7a6-4614-b0f6-8d6315c02913)  
+![Free Easy-Trip Website Template _ Home __ w3layouts - Google Chrome 2024-01-20 21-46-41](https://github.com/Fatmaaktar/TravelTricProject/assets/106100226/4451e97e-e1db-4326-99f6-a2d16d4432fc)
+
+<br>
+
+## 🔓 Usage
+After installing the project on your local computer, you can make the desired changes in the project by entering the username and password on the LogIn page.  
+<li>🔑 User Name: Developer</li>
+<li>🔑 Password: 12345</li>
 
 
