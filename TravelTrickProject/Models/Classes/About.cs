@@ -10,7 +10,7 @@ namespace TravelTrickProject.Models.Classes
     {
         [Key]
         public int ID { get; set; }
-        public string FotoUrl { get; set; }
-        public string explanation { get; set; }
+        public string PhotoUrl { get; set; }
+        public string Explanation { get; set; }
     }
 }
