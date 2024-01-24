@@ -24,7 +24,7 @@ namespace TravelTrickProject.Controllers
         public ActionResult Login(Admin ad)
         {
             var informations = c.Admins.FirstOrDefault(x => x.User == ad.User &&
-            x.password == ad.password);
+            x.Password == ad.Password);
             if (informations!=null)
             {
                 FormsAuthentication.SetAuthCookie(informations.User,false);
