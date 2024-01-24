@@ -44,7 +44,7 @@ namespace TravelTrickProject.Controllers
         public ActionResult BlogUpdate(Blog b)
         {
             var blg = c.Blogs.Find(b.ID);
-            blg.explanation = b.explanation;
+            blg.Explanation = b.Explanation;
             blg.Title = b.Title;
             blg.BlogImage = b.BlogImage;
             blg.History = b.History;
@@ -73,7 +73,7 @@ namespace TravelTrickProject.Controllers
             var com = c.Comments.Find(y.ID);
             com.UserName = y.UserName;
             com.Mail = y.Mail;
-            com.Commentt = y.Commentt;
+            com.Comment2 = y.Comment2;
             c.SaveChanges();
             return RedirectToAction("CommentList");
         }
