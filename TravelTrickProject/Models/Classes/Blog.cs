@@ -12,7 +12,7 @@ namespace TravelTrickProject.Models.Classes
         public int ID { get; set; }
         public string Title { get; set; }
         public DateTime History { get; set; }
-        public string explanation { get; set; }
+        public string Explanation { get; set; }
         public string BlogImage { get; set; }
         public ICollection<Comment> Comments { get; set; }
     }
