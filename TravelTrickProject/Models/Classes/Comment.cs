@@ -11,9 +11,9 @@ namespace TravelTrickProject.Models.Classes
         [Key]
         public int ID { get; set; }
         public string UserName { get; set; }
-        public string Mail { get; set; }
-        public string Commentt { get; set; }
-        public int Blogid { get; set; }
+        public string Email { get; set; }
+        public string Comment2 { get; set; }
+        public int BlogId { get; set; }
         public virtual Blog Blog { get; set; }
     }
 }
