@@ -13,8 +13,8 @@ namespace TravelTrickProject.Models.Classes
         public string Title { get; set; }
         public string Explanetion { get; set; }
         public string Address { get; set; }
-        public string mail { get; set; }
+        public string Email { get; set; }
         public string Phone { get; set; }
-        public string Locasyon { get; set; }
+        public string Location { get; set; }
     }
 }
