@@ -1,4 +1,4 @@
-# 📌 Travel Trick Project
+# 📌 Travel Project
 This project was built using Asp.Net MVC5. I used MSSQL database.
 
 ## ✨ The Project Objective
